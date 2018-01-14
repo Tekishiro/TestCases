@@ -1,0 +1,21 @@
+E:\Мои файлы\Учеба\7 семестр\Тестирование\WebdriverSecond\WebdriverSecond\bin\Debug\WebdriverSecond.dll
+E:\Мои файлы\Учеба\7 семестр\Тестирование\WebdriverSecond\WebdriverSecond\bin\Debug\WebdriverSecond.pdb
+E:\Мои файлы\Учеба\7 семестр\Тестирование\WebdriverSecond\WebdriverSecond\bin\Debug\nunit.framework.dll
+E:\Мои файлы\Учеба\7 семестр\Тестирование\WebdriverSecond\WebdriverSecond\bin\Debug\WebDriver.dll
+E:\Мои файлы\Учеба\7 семестр\Тестирование\WebdriverSecond\WebdriverSecond\bin\Debug\WebDriver.Support.dll
+E:\Мои файлы\Учеба\7 семестр\Тестирование\WebdriverSecond\WebdriverSecond\bin\Debug\nunit.framework.xml
+E:\Мои файлы\Учеба\7 семестр\Тестирование\WebdriverSecond\WebdriverSecond\bin\Debug\WebDriver.xml
+E:\Мои файлы\Учеба\7 семестр\Тестирование\WebdriverSecond\WebdriverSecond\bin\Debug\WebDriver.Support.xml
+E:\Мои файлы\Учеба\7 семестр\Тестирование\WebdriverSecond\WebdriverSecond\obj\Debug\WebdriverSecond.csprojResolveAssemblyReference.cache
+E:\Мои файлы\Учеба\7 семестр\Тестирование\WebdriverSecond\WebdriverSecond\obj\Debug\WebdriverSecond.dll
+E:\Мои файлы\Учеба\7 семестр\Тестирование\WebdriverSecond\WebdriverSecond\obj\Debug\WebdriverSecond.pdb
+E:\DotNet\WebdriverSecond\WebdriverSecond\bin\Debug\WebdriverSecond.dll
+E:\DotNet\WebdriverSecond\WebdriverSecond\bin\Debug\WebdriverSecond.pdb
+E:\DotNet\WebdriverSecond\WebdriverSecond\bin\Debug\nunit.framework.dll
+E:\DotNet\WebdriverSecond\WebdriverSecond\bin\Debug\WebDriver.dll
+E:\DotNet\WebdriverSecond\WebdriverSecond\bin\Debug\WebDriver.Support.dll
+E:\DotNet\WebdriverSecond\WebdriverSecond\bin\Debug\nunit.framework.xml
+E:\DotNet\WebdriverSecond\WebdriverSecond\bin\Debug\WebDriver.xml
+E:\DotNet\WebdriverSecond\WebdriverSecond\bin\Debug\WebDriver.Support.xml
+E:\DotNet\WebdriverSecond\WebdriverSecond\obj\Debug\WebdriverSecond.dll
+E:\DotNet\WebdriverSecond\WebdriverSecond\obj\Debug\WebdriverSecond.pdb
